@@ -1,3 +1,6 @@
 .logo{
     width: 60px;
 }
+.bg-black-70{
+    background-color: rgba(0,0,0,0.7);
+}
